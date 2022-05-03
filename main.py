@@ -1,5 +1,2 @@
-class Data2:
-    def __init__(self):
-        print("saeed")
+class RedBlackTree:
     pass
-g
